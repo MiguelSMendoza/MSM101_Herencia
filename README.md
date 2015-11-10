@@ -24,5 +24,6 @@ FinMientras
 Si NaveFremen.cuantosQuedan()>0 Entonces
   Imprimir "Ganan los Fremen" 
 Sino
-  Imprimir "Ganan los Sardaukar" FinSi
+  Imprimir "Ganan los Sardaukar" 
+FinSi
 ```
